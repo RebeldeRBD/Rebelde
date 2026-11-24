@@ -31,8 +31,8 @@ A confiança da comunidade é a nossa base. O contrato inteligente da REBELDE fo
 * **Comprar na PancakeSwap:** [Negociar $RBD](https://pancakeswap.finance/swap?chain=bsc&chainOut=bsc&inputCurrency=BNB&outputCurrency=0x09fe4c3C8c82DD03aD8166B456d1f573EAb894F6&exactAmount=&exactField=INPUT)
 * **Documentação Económica:** [Ver Tokenomics](https://docs.google.com/document/d/1gToeh89iPZGIOQcEyxetxdzr0Drl0jVU/edit?usp=sharing&ouid=107625754272508759845&rtpof=true&sd=true)
 * **Licença:**[My license](https://drive.google.com/file/d/1vmmXpTB00_siiohcz6qJRjNsk0soyQ8s/view?usp=sharing)
-* **x:** [siga x] (https://x.com/Token_Rebelde)
-* **Linktree:** [Rebelde_RBD] (https://linktr.ee/Rebelde.Rbd)
+* **X:** [Siga no X](https://x.com/Token_Rebelde)
+* **Linktree:** [Rebelde_RBD](https://linktr.ee/Rebelde.Rbd)
 
 ---
 > *"A alternativa digital para quem procura escapar à crise e recuperar o controlo do próprio dinheiro."*
